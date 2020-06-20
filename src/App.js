@@ -1,9 +1,16 @@
 import React, {useState} from 'react';
+import ReactGA from 'react-ga';
 
 import {fetchWeather} from "./api/fetchWeather";
 import './App.css';
 
+function initializeAnalytics(){
+    ReactGA.initialize("UA-170179357-1")
+    ReactGA.pageview('/')
+}
+
 const App = () => {
+    initializeAnalytics();
     const [query, setQuery] = useState('');
     const [weather, setWeather] = useState({});
     
@@ -21,7 +28,7 @@ const App = () => {
             <input
                 type="text"
                 className="search"
-                placeholder="Search(i.e. any state/city)"
+                placeholder="Try Searching'Delhi' "
                 value={query}
                 onChange={(e) => setQuery(e.target.value)}
                 onKeyPress={search}
