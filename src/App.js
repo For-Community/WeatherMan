@@ -20,6 +20,9 @@ const App = () => {
 
             setWeather(data);
             setQuery('');
+
+            // uncomment the below line if you want to see the response on the console.
+            // console.log(data);
         }
     }
     
