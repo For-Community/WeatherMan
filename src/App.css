@@ -7,7 +7,7 @@ html, body, #root {
 }
 
 .main-container {
-    background: linear-gradient( rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.418) ), url('https://hdwallpaper20.com/wp-content/uploads/2017/07/wallpaper-wp4001752.jpg');
+    background: linear-gradient( rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.418) ), url('https://images.pexels.com/photos/1054220/pexels-photo-1054220.jpeg?cs=srgb&dl=pexels-stephan-seeber-1054220.jpg&fm=jpg');
     background-size: cover;
     background-position: center;
 }
