@@ -1,3 +1,8 @@
+[![GitHub issues](https://img.shields.io/github/issues/stephin007/WeatherMan)](https://github.com/stephin007/WeatherMan/issues)
+[![GitHub forks](https://img.shields.io/github/forks/stephin007/WeatherMan)](https://github.com/stephin007/WeatherMan/network)
+[![GitHub stars](https://img.shields.io/github/stars/stephin007/WeatherMan)](https://github.com/stephin007/WeatherMan/stargazers)
+[![GitHub license](https://img.shields.io/github/license/stephin007/WeatherMan)](https://github.com/stephin007/WeatherMan)
+
 ## How to make changes to the project
 # 1. Fork this Repository.
 To edit or commit changes to a project which you like, you need to fork that<br>
