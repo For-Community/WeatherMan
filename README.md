@@ -17,6 +17,16 @@
 
 ---
 
-2. > Open the terminal and enter the command npm init
+2.  Open the terminal, cd into the right directory and write `npm init`
 
 <img align="center" src ="https://www.oreilly.com/library/view/learning-nodejs-development/9781788395540/assets/9a57438c-a172-4d10-aa76-d8246f6307ea.png" width=500px>
+
+---
+
+3. Enter `npm i` in the terminal
+
+<img align="center" src="https://parzibyte.me/blog/wp-content/uploads/2019/05/5-Instalar-dependencias-con-npm-install-y-ejecutar-servidor-de-Node-en-Android-con-Termux.jpg" width="500px">
+
+# Screenshots
+
+<img align="center" src="https://i.ibb.co/k1PFJRW/kkkkkk.png">
