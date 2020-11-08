@@ -19,4 +19,4 @@
 
 2. > Open the terminal and enter the command npm init
 
-![npm init logo](https://www.oreilly.com/library/view/learning-nodejs-development/9781788395540/assets/9a57438c-a172-4d10-aa76-d8246f6307ea.png)
+<img align="center" src ="https://www.oreilly.com/library/view/learning-nodejs-development/9781788395540/assets/9a57438c-a172-4d10-aa76-d8246f6307ea.png" width=500px>
