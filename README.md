@@ -38,5 +38,3 @@
   >  - Install the firebase cli using `npm i -g firebase-tools` in the terminal
   >  - Open the terminal and type `firebase init`
   <img src="https://miro.medium.com/max/2534/1*bE_i4p9NLvfi5UiTdvHa4A.png" align="center" width="500px">
-  >  Select `hosting from the drop-down`
-  <img src="https://i2.wp.com/garywoodfine.com/wp-content/uploads/2019/07/firebase-deploy-init.png?ssl=1" width="500px">
