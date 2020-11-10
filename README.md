@@ -58,7 +58,7 @@
  
  - Your Project will be deployed
  
- 1.[Netlify](https://app.netlify.com/)
+ 2.[Netlify](https://app.netlify.com/)
  
  > - Open the Terminal and type `npm run build`
  
