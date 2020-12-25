@@ -11,6 +11,9 @@
 #environment variables
 .env
 
+# firebase cache
+.firebase
+
 # production
 /build
 
